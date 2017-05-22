@@ -1,3 +1,3 @@
 # totalcmd
-Basic Total Commander in Java
+Basic Total Commander in Java.
 Not commented :(
